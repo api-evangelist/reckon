@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Reckon is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://reckon.com/
+Reckon provides accounting, business, and bookkeeping software solutions for small businesses in Australia and New Zealand. Their cloud‑based platforms include Reckon One, Reckon Cloud POS, and Reckon Accounts Hosted, offering features such as payroll, invoicing, bank reconciliation, inventory management, and data migration tools. The company emphasizes easy migration from existing systems, comprehensive support resources, and a focus on helping small enterprises streamline financial operations.
+
+**Areas:** Accounting · Software · Small Business · Australia · New Zealand
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://reckon.com/)
+- [Documentation](https://learning.reckon.com/)
+- [Getting started](https://help.reckon.com/category/dfwpu8zpfx-reckon-customer-portal-getting-started)
+- [Pricing](https://www.reckon.com/au/blog/pricing-models-small-business/)
+- [Support](https://www.reckon.com/au/support/)
+- [Blog](https://www.reckon.com/au/blog/)
+- [Terms of service](https://www.reckon.com/au/terms/)
+- [Privacy policy](https://www.reckon.com/au/privacy/)
+- [Status](https://status.reckon.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/reckon/](https://apis.io/providers/reckon/).
